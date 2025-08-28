@@ -1,7 +1,0 @@
-{
-    "    const juegos = await getJuegos();
-    espCatalogo.innerHTML="";
-    for(let index = 0;index < juegos.length; index++){
-        let juego = juegos[index];":[
-    ]
-}

@@ -1,1 +1,0 @@
-const inputUsuario=document.ge
