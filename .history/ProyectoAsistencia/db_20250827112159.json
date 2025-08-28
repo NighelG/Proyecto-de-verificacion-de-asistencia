@@ -1,0 +1,18 @@
+{
+  "estudiantes": [
+    {
+      "id": "438a",
+      "completeName": "Douglas Nighel Villagra García",
+      "userName": "Nighel",
+      "email": "correofalso@gmail.com",
+      "passwordRegister": "123holamundo"
+    },
+    {
+      "id": "1206",
+      "completeName": "Carlos el topo que gira",
+      "userName": "Carlos",
+      "email": "bandicoot@gmail.com",
+    "passwordRegister": "akuaku123"
+    }
+  ]
+}

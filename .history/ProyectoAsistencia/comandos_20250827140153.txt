@@ -1,0 +1,14 @@
+1-node server.js
+2-json-server --watch db.json --port 3001
+
+<link rel="stylesheet" href="\css\.css">
+<script type="module" src="../js/.js"></script>
+
+    const estudiantes = await getEstudiantes();
+    registroEspacio.innerHTML="";
+    for(let index = 0;index < estudiantes.length; index++){
+        let estudiante = estudiantes[index];
+        let respuestaA= document.createElement("h2");
+        respuestaA.textContent="Registro completado, por favor vuelve e inicia sesion";
+        registroEspacio.appendChild(respuestaA)
+    }
